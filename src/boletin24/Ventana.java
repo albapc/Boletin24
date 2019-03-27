@@ -5,7 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-public class Ventana extends JFrame implements ActionListener {
+public class Ventana implements ActionListener {
 
     JFrame marco;
     JPanel panelPrincipal, panelArriba, panelAbajo;
